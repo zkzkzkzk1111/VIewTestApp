@@ -4,7 +4,7 @@
 <br><br>
 
 ## 스크린샷
-<img src="img/screen.png" width="200"/> <img src="img/screen1.png" width="200"/>
+<img src="img/screen.png" width="200" height="450"/> <img src="img/screen1.png" width="200" height="450"/>
 
 <br><br>
 
